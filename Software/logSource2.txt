@@ -1,0 +1,50 @@
+********* ### **********
+File name ==IMG_0431.jpg
+File Path ==E:\Pictures\IMG_0431.jpg
+Extension = jpg
+Description = A JPG file is an image saved in a compressed image format standardized by the Joint Photographic Experts Group (JPEG). It is commonly used for storing digital photos and used by most digital cameras to save images. JPG files are among the most common image files along with .PNG, .TIF, and .GIF.
+Category = Image
+Language = Matrix 
+
+Paradigm = NA
+Application Associated = Piccasa,paint,windows image viewer
+********* ### **********
+File name ==New Doc 2017-07-11_1.jpg
+File Path ==E:\Pictures\New Doc 2017-07-11_1.jpg
+Extension = jpg
+Description = A JPG file is an image saved in a compressed image format standardized by the Joint Photographic Experts Group (JPEG). It is commonly used for storing digital photos and used by most digital cameras to save images. JPG files are among the most common image files along with .PNG, .TIF, and .GIF.
+Category = Image
+Language = Matrix 
+
+Paradigm = NA
+Application Associated = Piccasa,paint,windows image viewer
+********* ### **********
+File name ==New Doc 2017-07-11_2.jpg
+File Path ==E:\Pictures\New Doc 2017-07-11_2.jpg
+Extension = jpg
+Description = A JPG file is an image saved in a compressed image format standardized by the Joint Photographic Experts Group (JPEG). It is commonly used for storing digital photos and used by most digital cameras to save images. JPG files are among the most common image files along with .PNG, .TIF, and .GIF.
+Category = Image
+Language = Matrix 
+
+Paradigm = NA
+Application Associated = Piccasa,paint,windows image viewer
+********* ### **********
+File name ==New Doc 2017-07-11_3.jpg
+File Path ==E:\Pictures\New Doc 2017-07-11_3.jpg
+Extension = jpg
+Description = A JPG file is an image saved in a compressed image format standardized by the Joint Photographic Experts Group (JPEG). It is commonly used for storing digital photos and used by most digital cameras to save images. JPG files are among the most common image files along with .PNG, .TIF, and .GIF.
+Category = Image
+Language = Matrix 
+
+Paradigm = NA
+Application Associated = Piccasa,paint,windows image viewer
+********* ### **********
+File name ==New Doc 2017-07-11_4.jpg
+File Path ==E:\Pictures\New Doc 2017-07-11_4.jpg
+Extension = jpg
+Description = A JPG file is an image saved in a compressed image format standardized by the Joint Photographic Experts Group (JPEG). It is commonly used for storing digital photos and used by most digital cameras to save images. JPG files are among the most common image files along with .PNG, .TIF, and .GIF.
+Category = Image
+Language = Matrix 
+
+Paradigm = NA
+Application Associated = Piccasa,paint,windows image viewer
