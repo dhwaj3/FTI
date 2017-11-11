@@ -1,0 +1,36 @@
+********* ### **********
+File name ==dhwaj.c
+File Path ==C:\Users\dhwajverma\Documents\dhwaj.c
+Extension = c
+Description = A C file is a source code file for a C or C++ program. It may include an entire program's source code, or may be one of many source files referenced within a programming project. C files can be edited using a basic text editor, but will not show syntax highlighting like most software development programs do.
+Category = Logical Source
+Language = C/C++
+Paradigm = Procedural
+Application Associated = Codeblocks,GNU C Compiler
+********* ### **********
+File name ==dhwaj.java
+File Path ==C:\Users\dhwajverma\Documents\dhwaj.java
+Extension = java
+Description = A JAVA file is a source code file written in the Java programming language, which was originally developed by Sun Microsystems but is now maintained by Oracle. It uses an object-oriented approach, where structured data types, called classes, are used to instantiate objects at runtime.
+Category = Logical Source
+Language = JAVA
+Paradigm = OOPS
+Application Associated = Netbeans,Eclipse
+********* ### **********
+File name ==dhwaj.py
+File Path ==C:\Users\dhwajverma\Documents\dhwaj.py
+Extension = py
+Description = A PY file is a program file or script written in Python, an interpreted object-oriented programming language. It can be created and edited with a text editor, but requires a Python interpreter to run. PY files are often used for programming web servers and other administrative computer systems.
+Category = Logical Source
+Language = Python
+Paradigm = Scripting
+Application Associated = Pyhthon Spyder, Tensorflow
+********* ### **********
+File name ==dhwaj.txt
+File Path ==C:\Users\dhwajverma\Documents\dhwaj.txt
+Extension = txt
+Description = A TXT file is a standard text document that contains unformatted text. It is recognized by any text editing or word processing program and can also be processed by most other software programs
+Category = Textual
+Language = NA
+Paradigm = NA
+Application Associated = NotePad,WordPad
